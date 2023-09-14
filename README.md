@@ -26,6 +26,8 @@ This repository contains an analysis of the Global Terrorism Database (GTD) from
 
 Explored insights and trends extracted from the Global Terrorism Database through a series of interactive Tableau visualizations. These visualizations offer a comprehensive view of the dataset.
 
+To interact with these visualizations and explore the data-driven narratives, please visit my Tableau profile: [Deepak Bhatt's Tableau Profile](https://public.tableau.com/app/profile/deepak.bhatt1204).
+
 Screenshots of the dashboards I created:
 
 - **Dashboard 1**
@@ -46,9 +48,7 @@ Screenshots of the dashboards I created:
 
 - **Dashboard 5**
   
-![Dashboard 5](https://github.com/Deepubhatt/Global-Terrorism-Analysis/assets/139156800/5b18415d-7ee1-4b81-b238-d868a2ef3bf9)
-
-To interact with these visualizations and explore the data-driven narratives, please visit my Tableau profile: [Deepak Bhatt's Tableau Profile](https://public.tableau.com/app/profile/deepak.bhatt1204). 
+![Dashboard 5](https://github.com/Deepubhatt/Global-Terrorism-Analysis/assets/139156800/5b18415d-7ee1-4b81-b238-d868a2ef3bf9) 
 
 Gain a deeper understanding of global terrorism through these dynamic and informative dashboards.
 
