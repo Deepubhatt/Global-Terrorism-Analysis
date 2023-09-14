@@ -8,6 +8,7 @@ This repository contains an analysis of the Global Terrorism Database (GTD) from
 
 ## `Dataset Information`
 
+- **Dataset used for this analysis**: [terrorismdata.csv](https://drive.google.com/file/d/1Ym54nRgIclMekZ0k43KFHpRvEr7E86fL/view?usp=sharing)
 - **Dataset Source**: [Global Terrorism Database on Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd)
 - **Dataset Description**: The [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/) is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland. It provides a wealth of information on terrorist incidents and is widely used for research and analysis in the fields of security studies, data science, and conflict analysis.
 
